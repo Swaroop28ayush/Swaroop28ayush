@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayush Swaroop
-- 👀 I’m interested in fullstack Development
+- 👀 I’m interested in fullstack Development and Data Science
 - 🌱 I’m currently learning react native
 - 📫 reach me -ayushswaroop84424@gmail.com
 
